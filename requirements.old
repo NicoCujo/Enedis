@@ -143,7 +143,7 @@ qstylizer @ file:///C:/ci_311/qstylizer_1678502012152/work/dist/qstylizer-0.2.2-
 QtAwesome @ file:///C:/ci_311/qtawesome_1678402331535/work
 qtconsole @ file:///C:/b/abs_03f8rg9vl6/croot/qtconsole_1709231218069/work
 QtPy @ file:///C:/b/abs_derqu__3p8/croot/qtpy_1700144907661/work
-referencing==0.35.1
+referencing @ file:///C:/b/abs_09f4hj6adf/croot/referencing_1699012097448/work
 requests @ file:///C:/b/abs_9frifg92q2/croot/requests_1721410901096/work
 rfc3339-validator @ file:///C:/b/abs_ddfmseb_vm/croot/rfc3339-validator_1683077054906/work
 rfc3986-validator @ file:///C:/b/abs_6e9azihr8o/croot/rfc3986-validator_1683059049737/work
