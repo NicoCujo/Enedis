@@ -143,7 +143,7 @@ qstylizer @ file:///C:/ci_311/qstylizer_1678502012152/work/dist/qstylizer-0.2.2-
 QtAwesome @ file:///C:/ci_311/qtawesome_1678402331535/work
 qtconsole @ file:///C:/b/abs_03f8rg9vl6/croot/qtconsole_1709231218069/work
 QtPy @ file:///C:/b/abs_derqu__3p8/croot/qtpy_1700144907661/work
-referencing @ file:///C:/b/abs_09f4hj6adf/croot/referencing_1699012097448/work
+referencing==0.35.1
 requests @ file:///C:/b/abs_9frifg92q2/croot/requests_1721410901096/work
 rfc3339-validator @ file:///C:/b/abs_ddfmseb_vm/croot/rfc3339-validator_1683077054906/work
 rfc3986-validator @ file:///C:/b/abs_6e9azihr8o/croot/rfc3986-validator_1683059049737/work
@@ -172,7 +172,7 @@ sphinxcontrib-serializinghtml @ file:///C:/b/abs_91266tdnkr/croot/sphinxcontrib-
 spyder @ file:///C:/b/abs_31tozoovlh/croot/spyder_1719500387002/work
 spyder-kernels @ file:///C:/b/abs_e5u6y4ldr2/croot/spyder-kernels_1707937767956/work
 stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
-streamlit==1.37.0
+streamlit==1.39.0
 tabulate @ file:///C:/b/abs_21rf8iibnh/croot/tabulate_1701354830521/work
 tenacity==8.5.0
 terminado @ file:///C:/ci_311/terminado_1678228513830/work
